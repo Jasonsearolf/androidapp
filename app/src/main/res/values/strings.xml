@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="gender_male">Hombre</string>
+    <string name="gender_female">Mujer</string>
 </resources>
